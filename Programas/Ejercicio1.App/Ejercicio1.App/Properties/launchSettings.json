@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ejercicio1.App": {
+      "commandName": "Project",
+      "commandLineArgs": "Kevin Jhonatan Fuerez"
+    }
+  }
+}
